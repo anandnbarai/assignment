@@ -1,0 +1,22 @@
+body {
+    background: rgb(99, 39, 120)
+}
+
+.profile-button {
+    background: rgb(99, 39, 120);
+    box-shadow: none;
+    border: none
+}
+.profile-button:focus {
+    background: rgb(99, 39, 120);
+    box-shadow: none
+}
+
+.add-experience:hover {
+    background: rgb(99, 39, 120);
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px rgb(99, 39, 120);
+}
+
+
