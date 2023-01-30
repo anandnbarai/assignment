@@ -1,0 +1,43 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: lightgray !important;
+}
+.prod-info{
+    border: 1px solid #CEEFFF;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background: #fff;
+    padding: 6px;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(21,180,255,0.5);
+    box-shadow: 0 1px 1px 0 rgba(21,180,255,0.5);
+} 
+.prod-info .product-image {
+    background-color: #EBF8FE;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #CEEFFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.product-deatil h5 a {
+    color: #2f383d;
+    font-size: 15px;
+    line-height: 19px;
+    text-decoration: none;
+    padding-left: 0;
+    margin-left: 0
+}
+.checked {
+    color: orange;
+}
+.price{
+    color: skyblue;
+    font-size: 30px;
+}
+.category{
+    font-size: 15px;
+}
