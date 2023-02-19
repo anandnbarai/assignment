@@ -1,0 +1,36 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: lightgray !important;
+}
+.prod-info{
+    border: 1px solid #CEEFFF;
+    margin-bottom: 30px;
+    background: #fff;
+    padding: 7px;
+} 
+.prod-info .product-image {
+    background-color: #EBF8FE;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #CEEFFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.product-deatil h5 a {
+    color: darkblue;
+    line-height: 19px;
+    text-decoration: none;
+    padding-left: 0;
+    margin-left: 0
+}
+.checked {
+    color: orange;
+}
+.price{
+    color: skyblue;
+    font-size: 30px;
+}
