@@ -52,7 +52,7 @@ $b = &$a;
 $b = "2$b";
 </pre>
 
-ans : <a href="Answers/9.php"> Value of A is 21 & B is 21.  </a>
+ans : <a href="Answers/9.php"> Value of A is 21 & B is 21. "<br><b>Explaination :</b> In first step Value 1 is given to variable a. In second step variable b is assign as a reference to variable a means both variable a and b now references a same memory location and whatever value you assign to any of those references both will point to same value. So In third step 2b is assigned to variable b and now value of b is 21 because here two string concatenates."</a>
 
 <b>10.	How can you tell if a number is even or odd without using any Condition or loop?</b>
 
