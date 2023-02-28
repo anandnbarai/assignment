@@ -4,9 +4,9 @@
 
 ans : 1.php
 
-2.	Write a PHP program for find „Thursday‟ in week using switch Function.
+<b>2.	Write a PHP program for find "Thursday‟ in week using switch Function.</b>
 
-
+ans : 2.php
 
 3.	Write a PHP program to check Leap years between 1901 to 2016 Using nested if.
 
@@ -72,12 +72,11 @@ $b = "2$b";
 
 
 
-15.	Use a for loop to total the contents of an integer array called numbers which has five elements. Store the result in an integer called total.
+<b>15.	Use a for loop to total the contents of an integer array called numbers which has five elements. Store the result in an integer called total.</b>
 
 
 
 
-
-16.	Declare a Multi Dimensioned array of floats called balances having Three rows and five columns.
+<b>16.	Declare a Multi Dimensioned array of floats called balances having Three rows and five columns.</b>
 
 
