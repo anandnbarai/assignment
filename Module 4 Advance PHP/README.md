@@ -41,3 +41,34 @@
 • If user select for the full day than user only have selection for the checking checkout date
 
 • If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).
+
+<br><br>
+<h3><i> JQuery </i></h3>
+
+a) What is jQuery?
+
+b) How are JavaScript and jQuery different?
+
+c) Which is the starting point of code execution in jQuery?
+
+d) Document Load Vs Window. Load() jQuery
+
+e) What is the difference between prop and attr?
+
+f) Explain Difference Between JQuery And JavaScript?
+
+g) How We Can Select The Specified <li> Element From The ListOf <li> Elements In <ul>?
+  
+h) In <table> Design Change The Color Of Even <tr> Elements To
+  “green” And Change The Color Of Odd <tr> Elements To “blue” Color? Give An Example Code?
+  
+i) How We Can Implement Animation Effects In Jquery?
+  
+j) Apply jQuery validation using library.
+  
+k) Create custom dynamic function for require field validator.
+  
+l) Get state data by country selection (Ajax).
+  
+m) Image uploading with preview.
+  
