@@ -57,5 +57,5 @@ e) What is the difference between prop and attr?
 
 f) Explain Difference Between JQuery And JavaScript?
 
-
+g) <pre> How We Can Select The Specified <li> Element From The ListOf <li> Elements In <ul>?</pre>
   
