@@ -1,4 +1,4 @@
-<h3> Core PHP Que </h3>
+<h2><u> Core PHP Que <u></h2>
 
 <b>1.	Write a PHP program to enter marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer, calculate percentage and grade by if else.</b>
 
