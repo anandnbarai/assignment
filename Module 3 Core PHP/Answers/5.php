@@ -1,5 +1,9 @@
 <?php
-// PHP code to get the Fibonacci series
+
+
+//? The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding numbers. 
+//? The sequence starts with 0 and 1
+
 function Fibonacci($n)
 {
 
