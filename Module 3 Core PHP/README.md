@@ -27,9 +27,9 @@ ans : <a href="Answers/6.php"> Number is Armstrong or Not </a>
 <b>7.	Write a program to print the below format :</b>
 <pre>
 5 9
-26 10
-37 11
-48 12
+2610
+3711
+4812
 </pre>
 
 ans : <a href="Answers/7.php"> Format Print </a>
