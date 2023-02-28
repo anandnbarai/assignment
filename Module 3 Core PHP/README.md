@@ -45,7 +45,9 @@ ans : <a href="Answers/8.php"> Pattern </a>
 
 <b>9.	What will be the values of $a and $b after the code below is executed? Explain your answer.</b>
 <pre>
-c
+$a = '1';
+$b = &$a;
+$b = "2$b";
 </pre>
 
 ans : <a href="Answers/9.php"> Value of A is 21 & B is 21.  </a>
