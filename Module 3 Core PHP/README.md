@@ -1,8 +1,8 @@
-<b> Core PHP Que </b>
+<h3> Core PHP Que </h3>
 
-1.	Write a PHP program to enter marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer, calculate percentage and grade by if else.
+<b>1.	Write a PHP program to enter marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer, calculate percentage and grade by if else.</b>
 
-
+ans : 1.php
 
 2.	Write a PHP program for find „Thursday‟ in week using switch Function.
 
