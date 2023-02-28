@@ -2,7 +2,7 @@
 
 <b>1.	Write a PHP program to enter marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer, calculate percentage and grade by if else.</b>
 
-ans : 1.php
+ans : <a href="Answers/1.php"> Find Your Percentage. </a>
 
 <b>2.	Write a PHP program for find "Thursday‟ in week using switch Function.</b>
 
