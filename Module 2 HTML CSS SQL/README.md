@@ -1,5 +1,5 @@
 <h2> HTML CSS Bootstrap Que</h2>
 
-1. Try To Create User Details Form
+<b> 1. Try To Create User Details Form </b>
 
-ans : <img src="Try To Create User Details Form/output.jpg" />
+ans : <img src="Try To Create User Details Form/output.jpg" width=200px height=200px />
