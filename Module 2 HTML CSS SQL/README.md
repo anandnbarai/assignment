@@ -6,7 +6,7 @@ ans : <img src="Try To Create User Details Form/output.jpg" width=500px height=5
 
 <b> 2. Create Manage Profile </b>
 
-ans : <img src="Create manage Profile/output.jpg" width=700px height=300px />
+ans : <img src="Create manage Profile/output.jpg" width=700px height=350px />
 
 <b> 3. Create Product Listing Page </b>
 
