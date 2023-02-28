@@ -2,4 +2,4 @@
 
 <b> 1. Try To Create User Details Form </b>
 
-ans : <img src="Try To Create User Details Form/output.jpg" width=300px height=250px />
+ans : <img src="Try To Create User Details Form/output.jpg" width=500px height=500px />
