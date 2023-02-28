@@ -1,5 +1,5 @@
 <h2> Advance PHP Que </h2>
-<h3> <u>OOPS</u> </h3>
+<h3> <i>OOPS</i> </h3>
 
 • What Is Object Oriented Programming?
 • What Are Properties Of Object Oriented Systems?
