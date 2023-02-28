@@ -14,7 +14,7 @@ ans : <a href="Answers/3.php"> Leap Year </a>
 
 <b>4.	Write a PHP program to find the largest of three numbers using ternary Operator.</b>
 
-ans : <a href="Answers/4.php"> Finf Largest Number </a>
+ans : <a href="Answers/4.php"> Find Largest Number </a>
 
 <b>5.	Write a program in PHP to print Fibonacci series. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34</b>
 
