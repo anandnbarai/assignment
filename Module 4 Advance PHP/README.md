@@ -57,5 +57,17 @@ e) What is the difference between prop and attr?
 
 f) Explain Difference Between JQuery And JavaScript?
 
-g) <pre> How We Can Select The Specified <li> Element From The ListOf <li> Elements In <ul>?</pre>
+g) How We Can Select The Specified &lt;li&gt; Element From The List Of &lt;li&gt; Elements In &lt;ul&gt;?
+
+h) In &lt;table&gt; Design Change The Color Of Even &lt;tr&gt; Elements To “green” and Change The Color Of Odd &lt;tr&gt; Elements To “blue” Color? 
+   Give An Example Code?
   
+i) How We Can Implement Animation Effects In Jquery?
+
+j) Apply jQuery validation using library.
+
+k) Create custom dynamic function for require field validator.
+
+l) Get state data by country selection (Ajax).
+
+m) Image uploading with preview.
