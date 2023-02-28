@@ -14,16 +14,16 @@ ans : <a href="Answers/3.php"> Leap Year </a>
 
 <b>4.	Write a PHP program to find the largest of three numbers using ternary Operator.</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/4.php"> Find Your Percentage. </a>
 
 <b>5.	Write a program in PHP to print Fibonacci series. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/5.php"> Find Your Percentage. </a>
 
 
 <b>6.	Write a program to find whether a number is Armstrong or not.</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/6.php"> Find Your Percentage. </a>
 
 <b>7.	Write a program to print the below format :</b>
 5 9
@@ -31,52 +31,57 @@ ans : <a href="Answers/1.php"> Find Your Percentage. </a>
 3711
 481
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/7.php"> Find Your Percentage. </a>
 
 
 
 <b>8.	Write a program for this Pattern:</b>
+<pre>
 *****
 *
 *
 *
 *****
+</pre>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/8.php"> Find Your Percentage. </a>
 
 <b>9.	What will be the values of $a and $b after the code below is executed? Explain your answer.</b>
 $a = '1';
 $b = &$a;
 $b = "2$b";
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/9.php"> Find Your Percentage. </a>
 
 <b>10.	How can you tell if a number is even or odd without using any Condition or loop?</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/10.php"> Find Your Percentage. </a>
 
-<b>11.	How can you declare the array (all type) in PHP? Explain with example Covert a JSON string to array.</b>
+<b>11.	How can you declare the array (all type) in PHP?</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/11.php"> Find Your Percentage. </a>
 
-<b>12.	Write program to remove duplicate values from array</b>
-
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
-
-<b>13.	Get random values from array</b>
-
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
-
-<b>14.	Write a PHP script which decodes the following JSON string</b>.
-
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+<b>12. Explain with example Covert a JSON string to array.</b>
 
 
-<b>15.	Use a for loop to total the contents of an integer array called numbers which has five elements. Store the result in an integer called total.</b>
+<b>13.	Write program to remove duplicate values from array</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/13.php"> Find Your Percentage. </a>
+
+<b>14.	Get random values from array</b>
+
+ans : <a href="Answers/14.php"> Find Your Percentage. </a>
+
+<b>15.	Write a PHP script which decodes the following JSON string</b>.
+
+ans : <a href="Answers/15.php"> JSON String </a>
 
 
-<b>16.	Declare a Multi Dimensioned array of floats called balances having Three rows and five columns.</b>
+<b>16.	Use a for loop to total the contents of an integer array called numbers which has five elements. Store the result in an integer called total.</b>
 
-ans : <a href="Answers/1.php"> Find Your Percentage. </a>
+ans : <a href="Answers/16.php"> Integer Array </a>
+
+
+<b>17.	Declare a Multi Dimensioned array of floats called balances having Three rows and five columns.</b>
+
+ans : <a href="Answers/17.php"> Multidimensional Array </a>
