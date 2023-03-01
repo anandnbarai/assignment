@@ -62,7 +62,7 @@ ans : <a href="Answers/10.php"> Odd or Even </a>
 
 ans : <a href="Answers/11.php"> Array </a>
 
-<b>12. Explain with example Covert a JSON string to array.</b>
+<b>12. Explain with example Convert a JSON string to array.</b>
 
 ans : <a href="Answers/11.php"> JSON String to Array </a>
 
