@@ -1,4 +1,4 @@
-<h2> <u>HTML CSS Bootstrap Que with Ouput Screenshot</u></h2>
+<h2> <ul>HTML CSS Bootstrap Que with Ouput Screenshot</ul></h2>
 
 
 
