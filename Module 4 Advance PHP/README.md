@@ -42,32 +42,32 @@
 
 <b> 19. If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).</b>
 
-<br><br>>br>
+<br><br>
 <h3><i> JQuery </i></h3>
 
-a) What is jQuery?
+<b> 1. What is jQuery?</b>
 
-b) How are JavaScript and jQuery different?
+<b> 2. How are JavaScript and jQuery different?</b>
 
-c) Which is the starting point of code execution in jQuery?
+<b> 3. Which is the starting point of code execution in jQuery?</b>
 
-d) Document Load Vs Window. Load() jQuery
+<b> 4. Document Load Vs Window. Load() jQuery</b>
 
-e) What is the difference between prop and attr?
+<b> 5. What is the difference between prop and attr?</b>
 
-f) Explain Difference Between JQuery And JavaScript?
+<b> 6. Explain Difference Between JQuery And JavaScript?</b>
 
-g) How We Can Select The Specified &lt;li&gt; Element From The List Of &lt;li&gt; Elements In &lt;ul&gt;?
+<b> 7. How We Can Select The Specified &lt;li&gt; Element From The List Of &lt;li&gt; Elements In &lt;ul&gt;?</b>
 
-h) In &lt;table&gt; Design Change The Color Of Even &lt;tr&gt; Elements To “green” and Change The Color Of Odd &lt;tr&gt; Elements To “blue” Color? 
-   Give An Example Code?
+<b> 8. In &lt;table&gt; Design Change The Color Of Even &lt;tr&gt; Elements To “green” and Change The Color Of Odd &lt;tr&gt; Elements To “blue” Color? 
+   Give An Example Code?</b>
   
-i) How We Can Implement Animation Effects In Jquery?
+<b> 9. How We Can Implement Animation Effects In Jquery?</b>
 
-j) Apply jQuery validation using library.
+<b> 10. Apply jQuery validation using library.</b>
 
-k) Create custom dynamic function for require field validator.
+<b> 11. Create custom dynamic function for require field validator.</b>
 
-l) Get state data by country selection (Ajax).
+<b> 12. Get state data by country selection (Ajax).</b>
 
-m) Image uploading with preview.
+<b> 13. Image uploading with preview.</b>
