@@ -2,6 +2,7 @@
 
 <b> 1. Try To Create User Details Form </b>
 <a href="Try To Create User Details Form/User Details.html"> Click here to see Code </a>
+<br>
 <img src="Try To Create User Details Form/output.jpg" width=600px height=500px />
 
 <b> 2. Create Manage Profile </b>
