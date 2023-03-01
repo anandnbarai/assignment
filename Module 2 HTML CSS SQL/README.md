@@ -7,7 +7,7 @@
 <a href="Try To Create User Details Form/style.css"> Click here to see CSS File </a>
 <br>
 <img src="Try To Create User Details Form/output.jpg" width=600px height=500px />
-
+<br>
 <b> 2. Create Manage Profile </b>
 
 <a href="Create manage Profile/profile.html"> Click here to see HTML File </a>
@@ -15,7 +15,7 @@
 <a href="Create manage Profile/style.css"> Click here to see CSS File </a>
 <br>
 <img src="Create manage Profile/output.jpg" width=700px height=350px />
-
+<br>
 <b> 3. Create Product Listing Page </b>
 
 <a href="Create Product Listing Page/product.html"> Click here to see HTML File </a>
