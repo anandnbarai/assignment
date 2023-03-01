@@ -5,6 +5,6 @@ $tmkoc = array("Champak Chacha","Jethalal","Tarak Mehta","Bhide","Sodhi","Popatl
 
 $rand = array_rand($tmkoc);
 
-echo $rand;
+echo "<b>$tmkoc[$rand]</b>";
 
 ?>
