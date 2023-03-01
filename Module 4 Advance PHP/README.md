@@ -1,48 +1,48 @@
 <h2> Advance PHP Que with Ans </h2>
 <h3> <i>OOPS</i> </h3>
 
-• What Is Object Oriented Programming?
+<b> 1. What Is Object Oriented Programming?</b>
 
-• What Are Properties Of Object Oriented Systems?
+<b> 2. What Are Properties Of Object Oriented Systems?</b>
 
-• What Is Difference Between Class And Interface?
+<b> 3. What Is Difference Between Class And Interface?</b>
 
-• What Is Overloading?
+<b> 4. What Is Overloading?</b>
 
-• What Is T_PAAMAYIM_NEKUDOTAYIM (Scope Resolution Operator (::) with Example
+<b> 5. What Is T_PAAMAYIM_NEKUDOTAYIM (Scope Resolution Operator (::) with Example</b>
 
-• What are the differences between abstract classes and interfaces?
+<b> 6. What are the differences between abstract classes and interfaces?</b>
 
-• Define Constructor and Destructor?
+<b> 7. Define Constructor and Destructor?</b>
 
-• How to Load Classes in PHP?
+<b> 8. How to Load Classes in PHP?</b>
 
-• How to Call Parent Constructor?
+<b> 9. How to Call Parent Constructor?</b>
 
-• Are Parent Constructor Called Implicitly When Create An ObjectOf Class?
+<b> 10. Are Parent Constructor Called Implicitly When Create An ObjectOf Class?</b>
 
-• What Happen, If Constructor Is Defined As Private Or Protected?
+<b> 11. What Happen, If Constructor Is Defined As Private Or Protected?</b>
 
-• What are PHP Magic Methods/Functions? List them Write program for Static Keyword in PHP?
+<b> 12. What are PHP Magic Methods/Functions? List them Write program for Static Keyword in PHP?</b>
 
-• Create multiple Traits and use it in to a single class?
+<b> 13. Create multiple Traits and use it in to a single class?</b>
 
-• Write PHP Script of Object Iteration?
+<b> 14. Write PHP Script of Object Iteration?</b>
 
-• Use of The $this keyword
+<b> 15. Use of The $this keyword</b>
 
-• Consider the exercise11and add a edit link near delete link e.g. Clicking up on edit button a particular row should be open in editing mode e.g. on the Particular row there should be filled text box with data and on the option column there should be a confirm button clicking upon it arrow should be updated.
+<b> 16. Consider the exercise11and add a edit link near delete link e.g. Clicking up on edit button a particular row should be open in editing mode e.g. on the Particular row there should be filled text box with data and on the option column there should be a confirm button clicking upon it arrow should be updated.</b>
 
-• Create Hotel Room Booking System User can book room by 3 ways
+<b> 17. Create Hotel Room Booking System User can book room by 3 ways</b>
   Full day
   Half day
   Custom
   
-• If user select for the full day than user only have selection for the checking checkout date
+<b> 18. If user select for the full day than user only have selection for the checking checkout date</b>
 
-• If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).
+<b> 19. If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).</b>
 
-<br><br>
+<br><br>>br>
 <h3><i> JQuery </i></h3>
 
 a) What is jQuery?
