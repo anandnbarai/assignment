@@ -29,3 +29,9 @@
 <a href="Create Product Listing Page/style.css"> Click here to see CSS File </a>
 <br>
 <img src="Create Product Listing Page/output.jpg" width=600px height=300px />
+
+
+<b> 4. SQL Task 1 & 2 Ans </b>
+
+<a href="SQL Task 1 & 2 Ans/SQL Task 1 & 2 Ans.pdf"> Click here to see CSS File </a>
+<br>
