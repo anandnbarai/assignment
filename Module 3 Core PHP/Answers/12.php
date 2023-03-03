@@ -6,6 +6,7 @@
 
 
 $json = '{"UK": "London", "India": "New Delhi", "IT": "Rome"}';
+echo "<b>JSON String : </b>".$json."<br><br>";
 print_r (json_decode($json));
 
 ?>
