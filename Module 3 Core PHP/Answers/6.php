@@ -31,7 +31,7 @@
 <body>
     <center>
         <br><br>
-        <h3> Enter a Number to Knwo whether the Number is Armstrong or Not!</h3>
+        <h3> Enter a Number to Know whether the Number is Armstrong or Not!</h3>
         <br>
         <form method="post">
 
