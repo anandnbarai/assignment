@@ -72,3 +72,5 @@ Ans : <a href="ans/OOPS.txt"> Find Ans Here! </a>
 <b> 12. Get state data by country selection (Ajax).</b>
 
 <b> 13. Image uploading with preview.</b>
+
+Ans : <a href="ans/jQuery.txt"> Find Ans Here! </a>
