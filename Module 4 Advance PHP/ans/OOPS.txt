@@ -1,0 +1,54 @@
+1. What Is Object Oriented Programming?
+Object-oriented programming (OOP) is a programming paradigm that focuses on using objects, which are instances of classes, to represent real-world concepts and entities. OOP is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
+Abstraction involves creating a simplified representation of a complex system by hiding the details of its implementation. Encapsulation is the practice of keeping data and behavior within an object to prevent outside access and modification. Inheritance allows a class to inherit properties and methods from another class, and polymorphism allows objects of different types to be treated as if they are the same type.
+
+2. What Are Properties Of Object Oriented Systems?
+The properties of object-oriented systems include:
+Encapsulation: Objects keep their data and methods private, which prevents outside access and modification.
+Inheritance: Classes can inherit properties and methods from other classes.
+Polymorphism: Objects of different types can be treated as if they are the same type.
+Abstraction: The complexity of a system is hidden behind a simplified representation.
+Modularity: The system is made up of modules, which can be modified independently.
+Dynamic Binding: The type of an object is determined at runtime, allowing for more flexible code.
+
+3. What Is Difference Between Class And Interface?
+A class is a blueprint for creating objects, while an interface is a contract that defines a set of methods that a class must implement.
+A class can contain variables, methods, constructors, and other class members. When a class is instantiated, an object is created based on the class definition.
+
+An interface, on the other hand, only contains method signatures and constants. It does not define the implementation of the methods, but rather specifies what methods a class must implement. A class can implement multiple interfaces, but can only inherit from one class.
+
+4. What Is Overloading?
+Overloading is a feature in object-oriented programming where two or more methods in a class have the same name, but different parameters.
+When an overloaded method is called, the compiler determines which method to execute based on the number, type, and order of the parameters passed. This allows for more flexible and readable code, as methods can be named based on their functionality rather than their specific parameters.
+
+5. What Is T_PAAMAYIM_NEKUDOTAYIM (Scope Resolution Operator (::) with Example
+
+6. What are the differences between abstract classes and interfaces?
+
+7. Define Constructor and Destructor?
+
+8. How to Load Classes in PHP?
+
+9. How to Call Parent Constructor?
+
+10. Are Parent Constructor Called Implicitly When Create An ObjectOf Class?
+
+11. What Happen, If Constructor Is Defined As Private Or Protected?
+
+12. What are PHP Magic Methods/Functions? List them Write program for Static Keyword in PHP?
+
+13. Create multiple Traits and use it in to a single class?
+
+14. Write PHP Script of Object Iteration?
+
+15. Use of The $this keyword
+
+16. Consider the exercise11and add a edit link near delete link e.g. Clicking up on edit button a particular row should be open in editing mode e.g. on the Particular row there should be filled text box with data and on the option column there should be a confirm button clicking upon it arrow should be updated.
+
+17. Create Hotel Room Booking System User can book room by 3 ways Full day Half day Custom
+
+18. If user select for the full day than user only have selection for the checking checkout date
+
+19. If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).
+
+
