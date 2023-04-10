@@ -49,7 +49,6 @@ Interface are similar to abstract classes. The difference between interfaces and
 - Classes can implement an interface while inheriting from another class at the same time
 
 
-
 7. Define Constructor and Destructor?
 Constructors: Constructors are called when an object is created from a class.A constructor is a special member function that is called automatically when an object is created. Its primary purpose is to initialize the object's data members and allocate any necessary resources for the object to function correctly. 
 Destructors: Destructors are called when an object destructs. Usually, it is when the script ends.A destructor is a special member function that is called automatically when an object is destroyed or goes out of scope. Its primary purpose is to free up any resources allocated to the object during its lifetime, such as memory or file handles.
