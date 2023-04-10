@@ -1,0 +1,26 @@
+1. What is jQuery?
+
+2. How are JavaScript and jQuery different?
+
+3. Which is the starting point of code execution in jQuery?
+
+4. Document Load Vs Window. Load() jQuery
+
+5. What is the difference between prop and attr?
+
+6. Explain Difference Between JQuery And JavaScript?
+
+7. How We Can Select The Specified <li> Element From The List Of <li> Elements In <ul>?
+
+8. In <table> Design Change The Color Of Even <tr> Elements To “green” and 
+Change The Color Of Odd <tr> Elements To “blue” Color? Give An Example Code?
+
+9. How We Can Implement Animation Effects In Jquery?
+
+10. Apply jQuery validation using library.
+
+11. Create custom dynamic function for require field validator.
+
+12. Get state data by country selection (Ajax).
+
+13. Image uploading with preview.
