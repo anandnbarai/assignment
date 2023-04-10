@@ -2,6 +2,7 @@
 Object-oriented programming (OOP) is a programming paradigm that focuses on using objects, which are instances of classes, to represent real-world concepts and entities. OOP is based on the principles of abstraction, encapsulation, inheritance, and polymorphism.
 Abstraction involves creating a simplified representation of a complex system by hiding the details of its implementation. Encapsulation is the practice of keeping data and behavior within an object to prevent outside access and modification. Inheritance allows a class to inherit properties and methods from another class, and polymorphism allows objects of different types to be treated as if they are the same type.
 
+
 2. What Are Properties Of Object Oriented Systems?
 The properties of object-oriented systems include:
 Encapsulation: Objects keep their data and methods private, which prevents outside access and modification.
@@ -11,25 +12,56 @@ Abstraction: The complexity of a system is hidden behind a simplified representa
 Modularity: The system is made up of modules, which can be modified independently.
 Dynamic Binding: The type of an object is determined at runtime, allowing for more flexible code.
 
+
 3. What Is Difference Between Class And Interface?
 A class is a blueprint for creating objects, while an interface is a contract that defines a set of methods that a class must implement.
 A class can contain variables, methods, constructors, and other class members. When a class is instantiated, an object is created based on the class definition.
-
 An interface, on the other hand, only contains method signatures and constants. It does not define the implementation of the methods, but rather specifies what methods a class must implement. A class can implement multiple interfaces, but can only inherit from one class.
+
 
 4. What Is Overloading?
 Overloading is a feature in object-oriented programming where two or more methods in a class have the same name, but different parameters.
 When an overloaded method is called, the compiler determines which method to execute based on the number, type, and order of the parameters passed. This allows for more flexible and readable code, as methods can be named based on their functionality rather than their specific parameters.
 
-5. What Is T_PAAMAYIM_NEKUDOTAYIM (Scope Resolution Operator (::) with Example
+
+5. What Is T_PAAMAYIM_NEKUDOTAYIM, Scope Resolution Operator (::) with Example
+
+In PHP, T_PAAMAYIM_NEKUDOTAYIM denotes a syntax error while doing any task. 
+The reason for getting this error is only one. Paamayim Nekudotayim in Hebrew means double colon::
+this error refers to the inappropriate use of the double colon operator (::). The error is typically caused by an attempt to call a static method that is, in fact, not static.
+In PHP, the double colon :: is defined as Scope Resolution Operator. It used when when we want to access constants, properties and methods defined at class level.
+
+class MyClass {
+    public static function myStaticMethod() {
+        return "Hello, World!";
+    }
+}
+
+echo MyClass::myStaticMethod();
+
 
 6. What are the differences between abstract classes and interfaces?
+Interface are similar to abstract classes. The difference between interfaces and abstract classes are:
+
+- Interfaces cannot have properties, while abstract classes can
+- All interface methods must be public, while abstract class methods is public or protected
+- All methods in an interface are abstract, so they cannot be implemented in code and the abstract keyword is not necessary
+- Classes can implement an interface while inheriting from another class at the same time
+
+
 
 7. Define Constructor and Destructor?
+Constructors: Constructors are called when an object is created from a class.A constructor is a special member function that is called automatically when an object is created. Its primary purpose is to initialize the object's data members and allocate any necessary resources for the object to function correctly. 
+Destructors: Destructors are called when an object destructs. Usually, it is when the script ends.A destructor is a special member function that is called automatically when an object is destroyed or goes out of scope. Its primary purpose is to free up any resources allocated to the object during its lifetime, such as memory or file handles.
+
 
 8. How to Load Classes in PHP?
 
+
+
 9. How to Call Parent Constructor?
+
+
 
 10. Are Parent Constructor Called Implicitly When Create An ObjectOf Class?
 
