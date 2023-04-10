@@ -42,7 +42,7 @@
 
 <b> 19. If user select Half day than user have option of date and slot option (like user want to book room for first half – Morning (8AM to 6PM) if user select for second halfit‟s for evening (7PM to Morning 7AM)). Do proper validation like if user can book only available slot. (have touse jQuery -> Ajax, validation, Json passing).</b>
 
-Ans : <a href="ans/OOPS.txt> Find Ans Here! </a>
+Ans : <a href="ans/OOPS.txt"> Find Ans Here! </a>
 <br><br>
 <h3><i> JQuery </i></h3>
 
