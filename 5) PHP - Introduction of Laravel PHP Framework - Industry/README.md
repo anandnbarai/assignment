@@ -8,7 +8,7 @@
 
 • Generate Resource Controller for employee.
 
-• In Employee Controller‟s action Call Middleware.
+• In Employee Controller's action Call Middleware.
 
 • How to remove route caching?
 
