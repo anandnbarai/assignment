@@ -19,3 +19,11 @@
 Note: upload files from admin side. Show all the images in user side
 
 3. Download admin panel for employee management and convert it in Laravel blades.
+
+• How to do config database in laravel
+
+• Call MySQLi Store Procedure from Laravel.
+
+• Apply Curd Operation through Query Builder for Employee Management
+
+• Create All Migration for Employee management
