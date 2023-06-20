@@ -14,7 +14,7 @@
 
 • Create Custom Macro For search User
 
-Practical
+<b>Practical</b>
 1. Create Photo Gallery for above route.
 Note: upload files from admin side. Show all the images in user side
 
