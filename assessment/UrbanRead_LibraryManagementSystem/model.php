@@ -6,7 +6,7 @@ class Model
     private $servername = 'localhost';
     private $username = 'root';
     private $password = '';
-    private $dbname = 'phpcrud';
+    private $dbname = 'urbanread';
     private $conn;
 
     function __construct()
