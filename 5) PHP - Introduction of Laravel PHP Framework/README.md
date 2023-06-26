@@ -1,4 +1,4 @@
-# PHP - Introduction of Laravel PHP Framework - Industry
+# PHP - Introduction of Laravel PHP Framework
 
 • How to pass Multiple Variable in route?
 
