@@ -33,13 +33,32 @@ Que.2 Ans
 
 
 7. How We Can Select The Specified <li> Element From The List Of <li> Elements In <ul>?
+document.querySelectorAll("ul > li");
+$('ul li').each(function(i)
+{
+   $(this).attr('rel'); // This is your rel value
+});
+
 
 8. In <table> Design Change The Color Of Even <tr> Elements To “green” and 
 Change The Color Of Odd <tr> Elements To “blue” Color? Give An Example Code?
+$(document).ready(function()
+{
+  //for table row
+  $("tr:even").css("background-color", "green");
+  $("tr:odd").css("background-color", "blue");
+
+});
+
 
 9. How We Can Implement Animation Effects In Jquery?
+$("button").click(function(){
+   $("div").animate({left: '500px'});
+ }); 
+
 
 10. Apply jQuery validation using library.
+
 
 11. Create custom dynamic function for require field validator.
 
