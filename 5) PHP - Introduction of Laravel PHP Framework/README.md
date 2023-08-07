@@ -24,6 +24,6 @@ Note: upload files from admin side. Show all the images in user side
 
 • Call MySQLi Store Procedure from Laravel.
 
-• Apply Curd Operation through Query Builder for Employee Management
+• Apply Crud Operation through Query Builder for Employee Management
 
 • Create All Migration for Employee management
