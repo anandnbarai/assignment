@@ -4,4 +4,4 @@
 
 <b> 2. Create Web Service for your MVC Project.</b> <b>Create API for Image Uploading.</b>
 
-Ans : <a href="answer/answer.php">Answers</a>
+Ans : <a href="Answer/answer.php">Answers</a>
