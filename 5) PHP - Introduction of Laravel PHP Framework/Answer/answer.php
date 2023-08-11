@@ -75,7 +75,6 @@ The MyMiddleware middleware will be executed before the controller action is cal
 
 Q-6: How to remove route caching?
 
-
 To remove route caching in Laravel, you can use the route:clear Artisan command. This command will clear the cache file
 that stores the routes.
 To use the route:clear command, open a terminal window and navigate to the root directory of your Laravel project. Then,
