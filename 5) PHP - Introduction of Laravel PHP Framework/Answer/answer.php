@@ -82,3 +82,7 @@ To use the route:clear command, open a terminal window and navigate to the root 
 run the following command:
 
 php artisan route:clear
+
+Q-7: Create Custom Macro For search User
+
+use Illuminate\Database\Eloquent\Macroable;
