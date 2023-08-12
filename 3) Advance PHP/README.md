@@ -48,7 +48,7 @@
 
 • How We Can Select The Specified li Element From The List Of li Elements In ul?
 
-• In <table> Design Change The Color Of Even <tr> Elements To “green” And Change The Color Of Odd tr Elements To “blue” Color? Give An Example Code?
+• In table Design Change The Color Of Even tr Elements To “green” And Change The Color Of Odd tr Elements To “blue” Color? Give An Example Code?
 
 • How We Can Implement Animation Effects In Jquery?
 
