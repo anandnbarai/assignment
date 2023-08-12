@@ -1,4 +1,4 @@
-# PHP - Web services, API, Extensions
+# PHP - Web services, API, Extension
 
 <b> 1. Create API for Registration & Login Page.</b>
 
