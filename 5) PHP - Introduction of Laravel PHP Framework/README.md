@@ -4,7 +4,7 @@
 
 • How to pass variable which can be null in Route?
 
-• Create custom auto using middleware.
+• Create custom auto using Middleware.
 
 • Generate Resource Controller for employee.
 
