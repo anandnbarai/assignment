@@ -31,3 +31,31 @@
 • Write PHP Script of Object Iteration?
 
 • Use of The $this keyword
+
+## jQuery
+
+• What is jQuery?
+
+• How are JavaScript and jQuery different?
+
+• Which is the starting point of code execution in jQuery?
+
+• Document Load Vs Window. Load() jQuery
+
+• What is the difference between prop and attr?
+
+• Explain Difference Between JQuery And JavaScript?
+
+• How We Can Select The Specified <li> Element From The ListOf <li> Elements In <ul>?
+
+• In <table> Design Change The Color Of Even <tr> Elements To “green”And Change The Color Of Odd <tr> Elements To “blue” Color? Give An Example Code?
+
+• How We Can Implement Animation Effects In Jquery?
+
+• Apply jQuery validation using library.
+
+• Create custom dynamic function for require field validator.
+
+• Get state data by country selection (Ajax).
+
+• Image uploading with preview.
