@@ -1,4 +1,4 @@
-# Migration
+# PHP - Laravel - Migrations
 
 • How to do config database in laravel
 
